@@ -1,7 +1,7 @@
 body{
   
     background-image: linear-gradient(90deg,#c38c66,#fcdd9b);
-
+font-family: 'Inter', sans-serif;
   overflow: show;
 } 
 
@@ -40,7 +40,7 @@ margin: 10px;
 justify-content: space-around;
 margin:20px;
 font-size: 20px;
-font-family: sf pro display;
+font-family: 'Inter', sans-serif;
 text-decoration: none;
 padding: 2px;
 color: black;
