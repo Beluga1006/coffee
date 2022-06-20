@@ -73,7 +73,7 @@ border-radius: 20px;
 
 
 .brand{
-    font-family: KG Always A Good Time;
+    font-family: 'Inter', sans-serif;
     font-size: 32px;
     margin-top:-67px;
     margin-left: 35px;
@@ -82,7 +82,7 @@ border-radius: 20px;
 }
 
 .main{
-    font-family: SF pro display;
+    font-family: 'Inter', sans-serif;
     font-size: 40px;
     font-weight: 500;
    text-align: center;
@@ -92,7 +92,7 @@ border-radius: 20px;
 
 }
 .explain{
-    font-family: SF pro display;
+    font-family: 'Inter', sans-serif;
     font-size: 36px;
 margin:20px;
     font-weight: 500;
@@ -135,11 +135,11 @@ font-weight: 500;
     justify-content: center;
     border-radius: 20px;
     font-size: 25px;
-    font-family:SF pro display;
+    font-family: 'Inter', sans-serif;
 }
 
 .end{
-    font-family: KG Always A Good Time;
+    font-family: 'Inter', sans-serif;
     font-size: 32px;
 margin:0;
 padding: 20px;
