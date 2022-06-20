@@ -115,7 +115,7 @@ margin:20px;
 margin:10px auto;
 align-items: center;
 display: block;
-
+font-family: 'Inter', sans-serif;
    transition:1s;
 font-weight: 500;
 }
